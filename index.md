@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mtvuu/mtvuu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Michael Vu's WebPage
+"I'm commited not addicted"
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLuv_Is_Rage_2&psig=AOvVaw3H87OGh3D1KvYIcp6efBsN&ust=1610166685687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjzob3Ai-4CFQAAAAAdAAAAABAD)
 
 ### Markdown
 
