@@ -19,6 +19,3 @@
   ```
 - [x] Add Spotify Links
 - [ ] Be Happy :+1:
-
-### Miscellaneous
-@github/support How's your day?
