@@ -6,8 +6,9 @@
 ![Image](/LIR2.jpg)
 
 ### Some Links
-- [Main Spotify Playlist](https://open.spotify.com/playlist/7eQVYX5OojUcPta3u0XRzg)
-- [Sad Spotify Playlist](https://open.spotify.com/playlist/2nc1PSY18589KgbhyQWBHV)
+- Spotify Playlists
+  - [Main Spotify Playlists](https://open.spotify.com/playlist/7eQVYX5OojUcPta3u0XRzg)
+  - [Sad Spotify Playlist](https://open.spotify.com/playlist/2nc1PSY18589KgbhyQWBHV)
 - [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Goals
@@ -18,3 +19,6 @@
   ```
 - [x] Add Spotify Links
 - [ ] Be Happy :+1:
+
+### Miscellaneous
+@github/support How's your day?
