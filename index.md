@@ -1,6 +1,6 @@
 ## Welcome to Michael Vu's WebPage
 "I'm commited not addicted!"
-![Image](https://en.wikipedia.org/wiki/File:Luv_Is_Rage_2_cover.jpg)
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenius.com%2Falbums%2FLil-uzi-vert%2FLuv-is-rage-2&psig=AOvVaw3H87OGh3D1KvYIcp6efBsN&ust=1610166685687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjzob3Ai-4CFQAAAAAdAAAAABAI)
 
 ### Markdown
 
