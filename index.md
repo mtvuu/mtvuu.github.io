@@ -1,5 +1,5 @@
 ## Welcome to Michael Vu's WebPage
-"I'm commited not addicted!" \n
+"I'm commited not addicted!"  
 ![Image](/LIR2.jpg)
 
 ### Markdown
