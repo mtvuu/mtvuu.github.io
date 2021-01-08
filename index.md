@@ -12,5 +12,9 @@
 
 ### Goals
 - [x] Add Lil Uzi Image
+  ```
+  *Here's an image of the young man*
+  ![Image](/LIR2.jpg)
+  ```
 - [x] Add Spotify Links
-- [ ] Be Happy
+- [ ] Be Happy :+1:
