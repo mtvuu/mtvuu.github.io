@@ -1,8 +1,10 @@
 ## Welcome to Michael Vu's WebPage
-"I'm commited not addicted!"  
+**In the words of Sir Lil Uzi Vert**
+> "I'm commited not addicted!"  
+Here's an image of the young man  
 ![Image](/LIR2.jpg)
 
-### Markdown
+### Some Links
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
