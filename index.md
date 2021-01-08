@@ -6,6 +6,9 @@ Here's an image of the young man
 ![Image](/LIR2.jpg)
 
 ### Some Links
+- [Main Spotify Playlist](https://open.spotify.com/playlist/7eQVYX5OojUcPta3u0XRzg)
+- [Sad Spotify Playlist](https://open.spotify.com/playlist/2nc1PSY18589KgbhyQWBHV)
+- [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
