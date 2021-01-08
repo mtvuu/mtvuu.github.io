@@ -1,6 +1,6 @@
 ## Welcome to Michael Vu's WebPage
 "I'm commited not addicted!"
-![Image](https://github.com/mtvuu/mtvuu.github.io/LIR2.jpg)
+![Image](/mtvuu/mtvuu.github.io/LIR2.jpg)
 
 ### Markdown
 
