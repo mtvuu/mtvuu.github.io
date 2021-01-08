@@ -1,6 +1,6 @@
 ## Welcome to Michael Vu's WebPage
 **In the words of Sir Lil Uzi Vert**
-> "I'm commited not addicted!"  
+> "I'm commited not addicted!"  <
 Here's an image of the young man  
 ![Image](/LIR2.jpg)
 
